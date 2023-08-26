@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning HTML,CSS,Git-GitHub,Linux,Python,JavaScript
 - 💞️ I’m looking to collaborate on information sharing
 - 📫 How to reach me : josephfox@swissmail.com
+- 📫 How to reach me : contact@josephfox.ch
+- 🖥️ www.josephfox.ch
 
 <!---
 josephfox-ch/josephfox-ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
