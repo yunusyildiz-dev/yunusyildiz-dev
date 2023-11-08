@@ -5,6 +5,7 @@
 - 📫 How to reach me : josephfox@swissmail.com
 - 📫 How to reach me : contact@josephfox.ch
 - 🖥️ www.josephfox.ch
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephfox-ch)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 josephfox-ch/josephfox-ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
