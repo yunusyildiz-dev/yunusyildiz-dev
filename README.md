@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph FOX
 - 👀 I’m interested in web engineering
-- 🌱 I’m currently learning HTML,CSS,Git-GitHub,Linux,Python,JavaScript
+- 🌱 I’m currently learning HTML,CSS,Git-GitHub,MySQL,JavaScript,Node.js,React
 - 💞️ I’m looking to collaborate on information sharing
 - 📫 How to reach me : josephfox@swissmail.com
 - 📫 How to reach me : contact@josephfox.ch
