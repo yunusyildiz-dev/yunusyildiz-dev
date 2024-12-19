@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Joseph FOX
+- 👋 Hi, I’m Yunus YILDIZ
 - 👀 I’m interested in web engineering
 - 🌱 I’m currently learning HTML,CSS,Bootstrap,Git-GitHub,MySQL,JavaScript,Node.js,Express.js,React
 - 💞️ I’m looking to collaborate on information sharing
-- 📫 How to reach me : josephfox@swissmail.com
-- 📫 How to reach me : contact@josephfox.ch
-- 🖥️ www.josephfox.ch
+- 📫 How to reach me : yunusyildiz@swissmail.com
+- 🖥️ www.
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephfox-ch&show_icons=true)
