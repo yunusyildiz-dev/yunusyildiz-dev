@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS,Bootstrap,Git-GitHub,MySQL,JavaScript,Node.js,Express.js,React
 - 💞️ I’m looking to collaborate on information sharing
 - 📫 How to reach me : yunusyildiz@swissmail.com
-- 🖥️ www.yunusyildiz-portfolio.netlify.app
+- 🖥️ https://yunusyildiz-portfolio.netlify.app/
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephfox-ch&show_icons=true)
