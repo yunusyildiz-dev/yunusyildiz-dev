@@ -74,3 +74,6 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 </div>
 
 
+
+
+
