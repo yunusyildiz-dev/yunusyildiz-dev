@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 
 - 👨‍💻 I'm currently working on a smart HR productivity tool called **HiReBOOK**
-- 🌱 I'm improving my skills in **Python**, **React**, **Node.js**, and **Java**
+- 🌱 I'm improving my skills in **Python**, **React**, **Node.js**, and **JavaScript**
 - 🛠️ Technologies I work with:
   - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Material-UI, Bootstrap
   - **Backend:** Node.js, Express.js, API Development (REST)
@@ -43,15 +43,26 @@
 
 - 🔥 [HiReBOOK](https://github.com/yunusyildiz-ch/hirebook) — Smart HR Notes & Task Manager  
 - 📝 [SmartFox Home](https://github.com/yunusyildiz-ch/smartfox-home) — A smart home heat optimization app
+- 📝 [School Management System](https://github.com/yunusyildiz-ch/School-Management-System-Project) - A School Management Assistant Tool
 
 ---
 
 ### 📫 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/yunusyildiz-ch">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
   <a href="mailto:yunusyildiz@swissmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yunusyildiz-ch"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.yunusyildiz.ch"><img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yunusyildiz-ch">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://bsky.app/profile/yunusyildiz.ch">
+    <img src="https://img.shields.io/badge/Bluesky-0085FF?style=flat&logo=bluesky&logoColor=white" alt="Bluesky Badge"/>
+  </a>
+  <a href="https://yunusyildiz.ch">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
 </p>
 
 ---
