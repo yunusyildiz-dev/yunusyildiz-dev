@@ -6,6 +6,7 @@
   <img src="./assets/images/binary.jpg" alt="Banner" />
 </p>
 
+
 <div align="center">
   🧑‍💻 
 
@@ -45,6 +46,15 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 
 ---
 
+### 🔄 Now
+
+- 🎓 Attending : Powercoders ICT Spring-2025 Program
+- 🚀 Working on: [HiReBOOK](https://github.com/yunusyildiz-ch/hirebook)
+- 📖 Learning: Advanced React Patterns & Firebase
+- 🤝 Looking for: Internship opportunities in Geneva
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
   <p align="center">
@@ -60,6 +70,8 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 ---
 
 ### 🧰 Tech Stack
+
+> Tools, languages, and frameworks I use regularly:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,materialui,python,arduino,mysql,postgres,git,github,vite" />
