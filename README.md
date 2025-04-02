@@ -32,17 +32,23 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
   </a>
    <a href="mailto:mail@yunusyildiz.ch"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yunusyildiz-ch&label=Profile%20views&color=blue&style=social" alt="Profile Views" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yunusyildiz-ch&show_icons=true&theme=github_dark&custom_title=GitHub%20Stats&hide_rank=false&hide_border=false&include_all_commits=true" width="48%" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusyildiz-ch&layout=compact&theme=github_dark&hide_border=false&langs_count=6" width="48%" height="200" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunusyildiz-ch&show_icons=true&theme=tokyonight" alt="yunusyildiz-ch" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusyildiz-ch&layout=compact&theme=tokyonight" alt="yunusyildiz-ch-langs" />
-</p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=yunusyildiz-ch&theme=github_dark&border=777" width="96%" height="220" />
+  </p>
+</div>
 
 ---
 
