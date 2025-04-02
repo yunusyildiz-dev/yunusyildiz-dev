@@ -49,7 +49,7 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 ### 🔄 Now
 
 - 🎓 Attending: Powercoders ICT Spring-2025 Program  
-- 🚀 Working on: [HiReBOOK](https://github.com/yunusyildiz-ch/hirebook) 🔗 [Project Board](https://github.com/users/yunusyildiz-ch/projects/1)
+- 🚀 Working on: [HiReBOOK](https://github.com/yunusyildiz-ch/hirebook) 🔗 [Project Board](https://github.com/users/yunusyildiz-ch/projects/3)
 - 📖 Learning: Advanced React Patterns & Firebase  
 - 🤝 Looking for: Internship opportunities in Geneva
 
