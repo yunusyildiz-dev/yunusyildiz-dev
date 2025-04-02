@@ -1,5 +1,5 @@
-<h1 align="center"> <pre>Hi 👋, I'm Yunus YILDIZ </pre></h1>
-<h3 align="center"> <pre>A Passionate Full-Stack Developer from Switzerland</pre></h3>
+<h1 align="center"> Hi 👋, I'm Yunus YILDIZ </h1>
+<h3 align="center"> A Passionate Full-Stack Developer from Switzerland</h3>
 
 ---
 <p align="center">
@@ -63,8 +63,8 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 
 ---
 <div align="center">
-  <pre>Yunus YILDIZ ★ 2025</pre>
-  <p><pre>📍Geneva</pre></p>
+  <p>Yunus YILDIZ ★ 2025 </p>
+  <p>📍Geneva</p>
 </div>
 
 
