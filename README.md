@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yunus YILDIZ</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Switzerland</h3>
+<h1 align="center"> <pre>Hi 👋, I'm Yunus YILDIZ </pre></h1>
+<h3 align="center"> <pre>A Passionate Full-Stack Developer from Switzerland</pre></h3>
 
 ---
 <p align="center">
@@ -9,8 +9,10 @@
 <div align="center">
   🧑‍💻 
 
-Always learning. Always building. I enjoy transforming ideas into digital experiences.  
-Passionate about solving real-world challenges through technology, I thrive in dynamic teams, creating impactful, scalable applications.
+<pre> Always learning. Always building. 
+I enjoy transforming ideas into digital experiences.  
+Passionate about solving real-world challenges through technology.
+I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 
 ### 📫 Connect With Me
 
@@ -54,15 +56,15 @@ Passionate about solving real-world challenges through technology, I thrive in d
 
 ### 💡 Projects Spotlight
 
-- 📘 [HiReBOOK](https://github.com/yunusyildiz-ch/hirebook) — Smart HR Notes & Task Manager & Mini ATS 
-- 🏠 [SmartFox Home](https://github.com/yunusyildiz-ch/smartfox-home) — A Smart Home System (Heat Optimization App)
-- 🎓 [School Management System](https://github.com/yunusyildiz-ch/School-Management-System-Project) - A School Management Assistant Tool
-- 🛠️ [School Management System REST API](https://github.com/yunusyildiz-ch/School-Management-System-REST-API) - Backend stack of the School Management System
+- 📘 [`HiReBOOK`](https://github.com/yunusyildiz-ch/hirebook) — `Smart HR Notes & Task Manager & Mini ATS`
+- 🏠 [`SmartFox Home`](https://github.com/yunusyildiz-ch/smartfox-home) — `A Smart Home System (Heat Optimization App)`
+- 🎓 [`School Management System`](https://github.com/yunusyildiz-ch/School-Management-System-Project) — `A School Management Assistant Tool`
+- 🛠️ [`School Management System REST API`](https://github.com/yunusyildiz-ch/School-Management-System-REST-API) — `Backend stack of the School Management System`
 
 ---
 <div align="center">
-  Yunus YILDIZ ★ 2025
-  <p>📍Geneva</p>
+  <pre>Yunus YILDIZ ★ 2025</pre>
+  <p><pre>📍Geneva</pre></p>
 </div>
 
 
