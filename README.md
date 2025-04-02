@@ -2,6 +2,10 @@
 <h3 align="center">A Passionate Full-Stack Developer from Switzerland</h3>
 
 ---
+<p align="center">
+  <img src="./assets/images/binary.jpg" alt="Banner" />
+</p>
+
 <div align="center">
   🧑‍💻 
 
