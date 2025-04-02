@@ -51,7 +51,7 @@ Passionate about solving real-world challenges through technology, I thrive in d
 ### 💡 Projects Spotlight
 
 - 📘 [HiReBOOK](https://github.com/yunusyildiz-ch/hirebook) — Smart HR Notes & Task Manager & Mini ATS 
-- 🏠 [SmartFox Home](https://github.com/yunusyildiz-ch/smartfox-home) — A Smart Some Heat Optimization App
+- 🏠 [SmartFox Home](https://github.com/yunusyildiz-ch/smartfox-home) — A Smart Home System (Heat Optimization App)
 - 🎓 [School Management System](https://github.com/yunusyildiz-ch/School-Management-System-Project) - A School Management Assistant Tool
 - 🛠️ [School Management System REST API](https://github.com/yunusyildiz-ch/School-Management-System-REST-API) - Backend stack of the School Management System
 
