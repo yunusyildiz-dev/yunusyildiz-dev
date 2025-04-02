@@ -48,16 +48,16 @@ Passionate about solving real-world challenges through technology, I thrive in d
 
 ---
 
-### 📌 Projects Spotlight
+### 💡 Projects Spotlight
 
-- 🔥 [HiReBOOK](https://github.com/yunusyildiz-ch/hirebook) — Smart HR Notes & Task Manager  
-- 📝 [SmartFox Home](https://github.com/yunusyildiz-ch/smartfox-home) — A smart home heat optimization app
-- 📝 [School Management System](https://github.com/yunusyildiz-ch/School-Management-System-Project) - A School Management Assistant Tool
+- 📋 [HiReBOOK](https://github.com/yunusyildiz-ch/hirebook) — Smart HR Notes & Task Manager & Mini ATS 
+- 🔥 [SmartFox Home](https://github.com/yunusyildiz-ch/smartfox-home) — A smart home heat optimization app
+- 🧰 [School Management System](https://github.com/yunusyildiz-ch/School-Management-System-Project) - A School Management Assistant Tool
 
 ---
 <div align="center">
-  Yunus YILDIZ © 2025
-  <p>Geneva</p>
+  Yunus YILDIZ ©️ 2025
+  <p>📍Geneva</p>
 </div>
 
 
