@@ -34,7 +34,7 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
     <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://x.com/yunusyildiz_ch">
-  <img src="https://img.shields.io/badge/X%20Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="X Badge"/>
+  <img src="https://img.shields.io/badge/X%20|%20Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="X Badge"/>
 </a>
   <a href="mailto:mail@yunusyildiz.ch">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
@@ -58,12 +58,12 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 ### 📊 GitHub Stats
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yunusyildiz-ch&show_icons=true&theme=github_dark&custom_title=GitHub%20Stats&hide_rank=false&hide_border=false&include_all_commits=true" width="47%" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusyildiz-ch&layout=compact&theme=github_dark&hide_border=false&langs_count=6" width="47%" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yunusyildiz-ch&show_icons=true&theme=default&custom_title=GitHub%20Stats&hide_rank=false&hide_border=false&include_all_commits=true" width="47%" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusyildiz-ch&layout=compact&theme=default&hide_border=false&langs_count=6" width="47%" height="200" />
   </p>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=yunusyildiz-ch&theme=github_dark&border=777" width="94%" height="200" />
+    <img src="https://streak-stats.demolab.com/?user=yunusyildiz-ch&theme=default&border=777" width="94%" height="200" />
   </p>
 </div>
 
