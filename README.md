@@ -49,7 +49,7 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 ### 🔄 Now
 
 - 🎓 Attending: Powercoders Bootcamp – ICT Work Integration Program, Bern
-- 🚀 Working on: [HiReBOOK](https://github.com/yunusyildiz-ch/hirebook) 🔗 [Project Board](https://github.com/users/yunusyildiz-ch/projects/3)
+- 🚀 Working on: [Qatip App](https://github.com/yunusyildiz-ch/qatip) 🔗 [Project Board](https://github.com/users/yunusyildiz-ch/projects/3)
 - 📖 Learning: Advanced React Patterns & Firebase  
 - 🤝 Looking for: Internship opportunities in Geneva
 
@@ -81,7 +81,7 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 
 ### 💡 Projects Spotlight
 
-- 📘 [`HiReBOOK`](https://github.com/yunusyildiz-ch/hirebook) — `Smart HR Notes & Task Manager & Mini ATS`
+- 📘 [`Qatip App`](https://github.com/yunusyildiz-ch/qatip) — `Smart HR Notes & Task Manager & Mini ATS`
 - 🏠 [`SmartFox Home`](https://github.com/yunusyildiz-ch/smartfox-home) — `A Smart Home System (Heat Optimization App)`
 - 🎓 [`School Management System`](https://github.com/yunusyildiz-ch/School-Management-System-Project) — `A School Management Assistant Tool`
 - 🛠️ [`School Management System REST API`](https://github.com/yunusyildiz-ch/School-Management-System-REST-API) — `Backend stack of the School Management System`
