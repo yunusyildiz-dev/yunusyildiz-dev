@@ -49,9 +49,9 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 ### 🔄 Now
 
 - 🎓 Attending: Powercoders Bootcamp – ICT Work Integration Program, Bern
-- 🚀 Working on: [Qatip App](https://github.com/yunusyildiz-ch/qatip) 🔗 [Project Board](https://github.com/users/yunusyildiz-ch/projects/3)
+- 🚀 Working on: 🔗 [qatip.app](https://qatip.app)
+- 🚀 Working on: 🔗 [openarena.fun](https://openarena.fun)
 - 📖 Learning: Advanced React Patterns & Firebase  
-- 🤝 Looking for: Internship opportunities in Geneva
 
 ---
 
