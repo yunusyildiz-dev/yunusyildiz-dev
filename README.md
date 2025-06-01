@@ -49,9 +49,8 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 ### 🔄 Now
 
 - 🎓 Attending: Powercoders Bootcamp – ICT Work Integration Program, Bern
-- 🚀 Working on: 🔗 [qatip.app](https://qatip.app)
-- 🚀 Working on: 🔗 [openarena.fun](https://openarena.fun)
-- 📖 Learning: Advanced React Patterns & Firebase  
+- 🚀 Working on: 🔗 [qatip.app](https://qatip.app) and 🔗 [openarena.fun](https://openarena.fun)
+- 📖 Learning: Advanced React Patterns & Firebase , Python and Swagger UI - API Documentation Tool 
 
 ---
 
