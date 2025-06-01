@@ -82,7 +82,7 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 ### 💡 Projects Spotlight
 
 - 📘 [`Qatip App`](https://github.com/yunusyildiz-ch/qatip) — `Smart HR Notes & Task Manager & Mini ATS`
-- 🏠 [`SmartFox Home`](https://github.com/yunusyildiz-ch/smartfox-home) — `A Smart Home System (Heat Optimization App)`
+- 🏠 [`SmartFox Home`](https://github.com/yunusyildiz-ch/smartFOX_App.git) — `A Smart Home System (Heat Optimization App)`
 - 🎓 [`School Management System`](https://github.com/yunusyildiz-ch/School-Management-System-Project) — `A School Management Assistant Tool`
 - 🛠️ [`School Management System REST API`](https://github.com/yunusyildiz-ch/School-Management-System-REST-API) — `Backend stack of the School Management System`
 
