@@ -81,6 +81,7 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 
 ### 💡 Projects Spotlight
 
+- 🏟️ [`OpenArena`](https://github.com/yunusyildiz-ch/open_arena.git) - `Tournament Management System`
 - 📘 [`Qatip App`](https://github.com/yunusyildiz-ch/qatip) — `Smart HR Notes & Task Manager & Mini ATS`
 - 🏠 [`SmartFox Home`](https://github.com/yunusyildiz-ch/smartFOX_App.git) — `A Smart Home System (Heat Optimization App)`
 - 🎓 [`School Management System`](https://github.com/yunusyildiz-ch/School-Management-System-Project) — `A School Management Assistant Tool`
