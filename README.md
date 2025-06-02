@@ -39,6 +39,9 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
   <a href="mailto:mail@yunusyildiz.ch">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://medium.com/@yunusyildiz-ch">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yunusyildiz-ch&label=Profile%20views&color=blue&style=social" alt="Profile Views" />
