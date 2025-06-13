@@ -18,7 +18,7 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yunusyildiz-ch">
+  <a href="https://github.com/yunusyildiz-dev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="mailto:yunusyildiz@swissmail.com">
