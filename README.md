@@ -60,12 +60,12 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 ### 📊 GitHub Stats
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yunusyildiz-ch&show_icons=true&theme=default&custom_title=GitHub%20Stats&hide_rank=false&hide_border=false&include_all_commits=true" width="47%" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusyildiz-ch&layout=compact&theme=default&hide_border=false&langs_count=6" width="47%" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yunusyildiz-dev&show_icons=true&theme=default&custom_title=GitHub%20Stats&hide_rank=false&hide_border=false&include_all_commits=true" width="47%" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusyildiz-dev&layout=compact&theme=default&hide_border=false&langs_count=6" width="47%" height="200" />
   </p>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=yunusyildiz-ch&theme=default&border=777" width="94%" height="200" />
+    <img src="https://streak-stats.demolab.com/?user=yunusyildiz-dev&theme=default&border=777" width="94%" height="200" />
   </p>
 </div>
 
