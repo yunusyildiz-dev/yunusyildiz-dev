@@ -76,7 +76,7 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 > Tools, languages, and frameworks I use regularly:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,materialui,python,arduino,mysql,postgres,git,github,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,materialui,python,arduino,mysql,postgres,mongodb,git,github,vite" />
 </p>
 
 ---
