@@ -75,11 +75,8 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 
 > Tools, languages, and frameworks I use regularly:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,materialui,python,arduino,mysql,postgres,mongodb,git,github,vite" />
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/brand-mantine.svg" alt="Mantine" height="48" />
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,materialui,python,arduino,mysql,postgres,mongodb,git,github,vite)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/brand-mantine.svg" alt="Mantine" height="48" />
 ---
 
 ### 💡 Projects Spotlight
