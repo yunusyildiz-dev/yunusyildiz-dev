@@ -83,6 +83,7 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 <!-- 🏷️ Badges -->
 <img src="https://img.shields.io/badge/UI%20Library-Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" />
 <img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Code%20Editor-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
 <img src="https://img.shields.io/badge/Package%20Manager-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
