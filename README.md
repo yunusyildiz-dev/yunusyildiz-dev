@@ -21,9 +21,6 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
   <a href="https://github.com/yunusyildiz-dev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="mailto:yunusyildiz@swissmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/yunusyildiz-ch">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -36,7 +33,7 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
   <a href="https://x.com/yunusyildiz_ch">
   <img src="https://img.shields.io/badge/X%20|%20Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="X Badge"/>
 </a>
-  <a href="mailto:mail@yunusyildiz.ch">
+  <a href="mailto:mail@yunusyildiz.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://medium.com/@yunusyildiz-ch">
@@ -51,9 +48,10 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 
 ### 🔄 Now
 
-- 🎓 Attending: Powercoders Bootcamp – ICT Work Integration Program, Bern
-- 🚀 Working on: 🔗 [qatip.app](https://qatip.app) and 🔗 [openarena.fun](https://openarena.fun)
-- 📖 Learning: Advanced React Patterns & Firebase , Python and Swagger UI - API Documentation Tool 
+- 🎓 Powercoders Bootcamp – ICT Work Integration Program, Bern (graduate) 
+- 💼 Full Stack Developer Intern at TotalEnergies
+- 🚀 Working on: Enterprise Internal Projects
+- 📖 Improving Advanced React, Redux Toolkit, MERN stack, Python & Swagger UI - API Documentation Tool 
 
 ---
 
