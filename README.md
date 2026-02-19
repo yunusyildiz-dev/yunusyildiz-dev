@@ -70,22 +70,18 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
 ---
 
 ### 🧰 Tech Stack  
-
 > Tools, languages, and frameworks I use regularly  
-
 <div align="center">
-
 <!-- 🧠 Skill Icons -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,materialui,python,arduino,mysql,postgres,mongodb,git,github,vite" /><br>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,tailwind,bootstrap,materialui,python,arduino,mysql,postgres,mongodb,git,github,vite" /><br>
 <!-- 🏷️ Badges -->
 <img src="https://img.shields.io/badge/UI%20Library-Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" />
+<img src="https://img.shields.io/badge/State%20Management-Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" />
 <img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Code%20Editor-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
 <img src="https://img.shields.io/badge/Package%20Manager-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-
 </div>
 
 ### 💡 Projects Spotlight
