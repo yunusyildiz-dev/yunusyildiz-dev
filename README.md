@@ -21,13 +21,13 @@ I thrive in dynamic teams, creating impactful, scalable applications.</pre>
   <a href="https://github.com/yunusyildiz-dev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/yunusyildiz-ch">
+  <a href="https://www.linkedin.com/in/yunusyildiz-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://bsky.app/profile/yunusyildiz.ch">
     <img src="https://img.shields.io/badge/Bluesky-0085FF?style=flat&logo=bluesky&logoColor=white" alt="Bluesky Badge"/>
   </a>
-   <a href="https://yunusyildiz.ch">
+   <a href="https://yunusyildiz.dev">
     <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://x.com/yunusyildiz_ch">
