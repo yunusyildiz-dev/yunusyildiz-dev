@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="./assets/images/binary.jpg" alt="Banner" />
+  <img src="./assets/img/binary.jpg" alt="Banner" />
 </p>
 
 
