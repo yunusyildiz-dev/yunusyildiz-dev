@@ -8,40 +8,61 @@
 
 
 <div align="center">
-  🧑‍💻 
+  <div style="display:inline-block; padding:0; border:1px solid #b3b3b3; border-radius:10px; text-align:center;">
+    <table
+      width="460"
+      cellspacing="0"
+      cellpadding="0"
+      border="0"
+      background="./assets/img/lines.gif"
+      style="display:block; margin:0 auto; border:2px solid #cccccc; border-radius:8px; overflow:hidden; font-family:Georgia, Palatino, 'Times New Roman', serif;"
+    >
+      <tr>
+        <td align="center" style="padding:1.2em 1em; color:#000000; font-family:Georgia, Palatino, 'Times New Roman', serif;">
+          <p align="center">
+            <img src="./assets/img/profile.png" width="90" height="90" alt="Yunus YILDIZ" style="border-radius:50%; border:3px solid #cccccc;" />
+          </p>
+          <p align="center"><strong>Yunus YILDIZ</strong></p>
+          <p align="center"><em>Full Stack Developer</em></p>
+          <p align="center"><em><span style="color:#0000cc;">Always learning. Always building.</span></em></p>
+          <p align="center">
+            Transforming ideas into digital experiences.<br />
+            Passionate about solving real-world challenges through technology.
+          </p>
+          <p align="center">
+            <a href="https://github.com/yunusyildiz-dev">
+              <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+            </a>
+            <a href="https://www.linkedin.com/in/yunusyildiz-dev">
+              <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+            </a>
+            <a href="https://mastodon.social/@yunusyildiz_dev">
+              <img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon" />
+            </a>
+            <a href="https://bsky.app/profile/yunusyildiz.dev">
+              <img src="https://img.shields.io/badge/Bluesky-0085FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky" />
+            </a>
+            <br />
+            <a href="https://www.npmjs.com/~yunusyildiz">
+              <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+            </a>
+            <a href="https://yunusyildiz.dev">
+              <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+            </a>
+            <a href="mailto:mail@yunusyildiz.dev">
+              <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+            </a>
+          </p>
+          <p align="center"><sub>Built with ☕ and ❤️</sub></p>
+          <p align="center"><sub><em>‹ March 2026 · Geneva, Switzerland ›</em></sub></p>
+        </td>
+      </tr>
+    </table>
+  </div>
 
-<pre> Always learning. Always building. 
-I enjoy transforming ideas into digital experiences.  
-Passionate about solving real-world challenges through technology.
-I thrive in dynamic teams, creating impactful, scalable applications.</pre>
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/yunusyildiz-dev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yunusyildiz-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://bsky.app/profile/yunusyildiz.ch">
-    <img src="https://img.shields.io/badge/Bluesky-0085FF?style=flat&logo=bluesky&logoColor=white" alt="Bluesky Badge"/>
-  </a>
-   <a href="https://yunusyildiz.dev">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
-  <a href="https://x.com/yunusyildiz_ch">
-  <img src="https://img.shields.io/badge/X%20|%20Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="X Badge"/>
-</a>
-  <a href="mailto:mail@yunusyildiz.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@yunusyildiz-ch">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-</p>
-<p align="center">
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yunusyildiz-ch&label=Profile%20views&color=blue&style=social" alt="Profile Views" />
+  </p>
 </div>
 
 ---
