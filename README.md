@@ -14,7 +14,7 @@
       cellspacing="0"
       cellpadding="0"
       border="0"
-      background="./assets/img/lines.gif"
+      background="./assets/img/lines.png"
       style="display:block; margin:0 auto; border:2px solid #cccccc; border-radius:8px; overflow:hidden; font-family:Georgia, Palatino, 'Times New Roman', serif;"
     >
       <tr>
