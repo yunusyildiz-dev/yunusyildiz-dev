@@ -64,7 +64,7 @@
 ---
 
 ### 🧰 Tech Stack  
-> Tools, languages, and frameworks I use regularly  
+> Languages, frameworks and tools I use regularly  
 <div align="center">
 <!-- 🧠 Skill Icons -->
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,redux,nodejs,express,tailwind&perline=10" /><br>
