@@ -74,7 +74,7 @@
 
 ---
 <div align="center">
-  <p>Yunus YILDIZ ★ 2025 </p>
+  <p>Yunus YILDIZ ★ 2026 </p>
   <p>📍Geneva</p>
 </div>
 
