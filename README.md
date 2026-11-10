@@ -48,22 +48,8 @@
 
 ---
 
-### 🔄 Now
-
-- 🎓 Powercoders Bootcamp – ICT Work Integration Program, Bern (graduate) 
-- 💼 Full Stack Developer Intern at TotalEnergies
-- 🚀 Working on: Enterprise Internal Projects
-- 📖 Improving Advanced React, Redux Toolkit, MERN stack, Python & Swagger UI - API Documentation Tool 
-
----
-
 ### 📊 GitHub Stats
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yunusyildiz-dev&show_icons=true&theme=default&custom_title=GitHub%20Stats&hide_rank=false&hide_border=false&include_all_commits=true" width="47%" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusyildiz-dev&layout=compact&theme=default&hide_border=false&langs_count=6" width="47%" height="200" />
-  </p>
-
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=yunusyildiz-dev&theme=default&border=777" width="94%" height="200" />
   </p>
@@ -85,14 +71,6 @@
 <img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 </div>
-
-### 💡 Projects Spotlight
-
-- 🏟️ [`OpenArena`](https://github.com/yunusyildiz-ch/open_arena.git) - `Tournament Management System`
-- 📘 [`Qatip App`](https://github.com/yunusyildiz-ch/qatip) — `Smart HR Notes & Task Manager & Mini ATS`
-- 🏠 [`SmartFox Home`](https://github.com/yunusyildiz-ch/smartFOX_App.git) — `A Smart Home System (Heat Optimization App)`
-- 🎓 [`School Management System`](https://github.com/yunusyildiz-ch/School-Management-System-Project) — `A School Management Assistant Tool`
-- 🛠️ [`School Management System REST API`](https://github.com/yunusyildiz-ch/School-Management-System-REST-API) — `Backend stack of the School Management System`
 
 ---
 <div align="center">
