@@ -67,7 +67,8 @@
 > Tools, languages, and frameworks I use regularly  
 <div align="center">
 <!-- 🧠 Skill Icons -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,redux,nodejs,express,tailwind,bootstrap,materialui,arduino,mysql,postgres,mongodb,git,github,vite" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,redux,nodejs,express,tailwind&perline=10" /><br>
+<img src="https://skillicons.dev/icons?i=bootstrap,materialui,arduino,mysql,postgres,mongodb,git,github,vite&perline=9" /><br>
 <!-- 🏷️ Badges -->
 <img src="https://img.shields.io/badge/Data-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
