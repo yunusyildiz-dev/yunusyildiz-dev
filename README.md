@@ -30,6 +30,12 @@
     <a href="https://pypi.org/user/yunusyildiz/">
       <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=FFD43B" alt="PyPI" />
     </a>
+    <a href="https://www.kaggle.com/yunusyildizdev">
+      <img src="https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    <a href="https://huggingface.co/yunusyildiz">
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000" alt="Hugging Face" />
+    </a>
     <a href="https://x.com/yunusyildizdev">
       <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
     </a>
@@ -63,6 +69,8 @@
 <!-- 🧠 Skill Icons -->
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,tailwind,bootstrap,materialui,python,arduino,mysql,postgres,mongodb,git,github,vite" /><br>
 <!-- 🏷️ Badges -->
+<img src="https://img.shields.io/badge/Data-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/UI%20Library-Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" />
 <img src="https://img.shields.io/badge/State%20Management-Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" />
 <img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" />
