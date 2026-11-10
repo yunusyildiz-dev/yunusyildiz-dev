@@ -61,7 +61,7 @@
   </div>
 
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yunusyildiz-ch&label=Profile%20views&color=blue&style=social" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yunusyildiz-dev&label=Profile%20views&color=blue&style=social" alt="Profile Views" />
   </p>
 </div>
 
