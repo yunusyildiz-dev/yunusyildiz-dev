@@ -54,15 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=yunusyildiz-dev&theme=default&border=777" width="94%" height="200" />
-  </p>
-</div>
-
----
-
 ### 🧰 Tech Stack  
 > Languages, frameworks and tools I use regularly  
 <div align="center">
